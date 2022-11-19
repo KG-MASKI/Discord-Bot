@@ -1,0 +1,6 @@
+{
+  "token": "procces.env.TOKEN", 
+  "prefix": "$",
+  "everyoneMention": false,
+  "hostedBy": true
+}
